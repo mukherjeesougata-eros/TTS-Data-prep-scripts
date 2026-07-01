@@ -6,7 +6,7 @@
 # print(requests.get(url, headers=headers).json())
 # import requests
 
-# headers = {"Authorization": "Bearer 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"}
+# headers = {"Authorization": "Bearer hf_yourtoken"}
 
 # url = "https://datasets-server.huggingface.co/first-rows?dataset=ai4bharat/Rasa&config=default&split=train"
 
